@@ -1,0 +1,6 @@
+{
+  "name": "physiocare",
+  "description": "PhysioCare - Advanced Physiotherapy & Chiropractic Rehabilitation Clinic by Dr. Amit Jangir and Senior Specialists",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
